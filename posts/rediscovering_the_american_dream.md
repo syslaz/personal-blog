@@ -1,6 +1,6 @@
 ---
 title: "America's Shared Identity: Rediscovering the American Dream!"
-date: "2023-11-20"
+date: "2024-11-20"
 description: "My perspective on the erosion of the American Dream, the role of technology in societal changes, and calls for unity, resilience, and a return to America's founding principles."
 author: Lazaro Brito
 ---

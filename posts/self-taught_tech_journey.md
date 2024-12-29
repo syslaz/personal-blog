@@ -1,6 +1,6 @@
 ---
 title: "Is My Self-Taught Tech Journey Proof You Don’t Need a Degree?"
-date: "2023-11-19"
+date: "2024-11-19"
 description: "How resilience, self-learning, and adaptability can lead to significant achievements, even without a formal degree. Learn about my personal journey of overcoming challenges and finding success in the tech industry through unconventional means."
 author: Lazaro Brito
 ---

@@ -1,6 +1,6 @@
 ---
 title: "My Resume"
-date: "2023-11-19"
+date: "2024-11-19"
 description: "An exploration of how resilience and self-learning can lead to remarkable achievements."
 author: Lazaro Brito
 ---
